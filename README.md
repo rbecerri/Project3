@@ -1,5 +1,5 @@
 # project3
-Group Project 2
+Group Project X
 
 (Will be updating more later)
 
