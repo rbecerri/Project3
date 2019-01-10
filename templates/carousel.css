@@ -35,6 +35,25 @@ a:hover {
   color: #fff;
 }
 
+#results{
+  height: 100%; 
+  width: 100%; 
+  object-fit: contain; 
+  border: 5px;
+  border-color: black;
+  border-radius:25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.viz{
+  margin-left: auto;
+  margin-right: auto;
+  height: 85%;
+  width: 85%;
+  text-shadow: none; /* Prevent inheritance from `body` */
+}
+
 .btn{
   background-color: rgb(66, 66, 66);
   border: solid #777;
@@ -62,7 +81,7 @@ a:hover {
 }
 
 .teampage{
-  background-color: grey;
+  background-color: rgb(29, 29, 29);
 }
 .nav-masthead .nav-link {
   padding: .25rem 0;
