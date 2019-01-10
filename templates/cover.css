@@ -48,8 +48,10 @@ body {
   width: 50%;
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #fff;
+  border-radius: 25px;
   border: .5rem solid #fff;
 }
+
 
 #about {
   height: 100%;
